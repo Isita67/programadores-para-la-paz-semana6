@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnologicas puedan resibir aportes 
+o informacion enviada por ciudadanos de forma estructurada, porque 
+esto puede facilitar la organizacion y el analisis de datos. ademas, 
+si un usuario sesea entrar a la plataforma, puede encontrar sus datos 
+de una manera mas facil y ordenada o si un administrador necesita 
+encontrar alguna informacion de algun usuario puede buscar y encontrar 
+todo lo que necesite y le facilita mucho el trabajo ya que tiene 
+toda la informacion ordenada y facil de encontrar

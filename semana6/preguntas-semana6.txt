@@ -1,0 +1,11 @@
+pregunta 1:
+respuesta:B. Un formato de intercambio de datos usados entre aplicaciones 
+
+pregunta 2:
+respuesta:B. Leer datos enviados en formato JSON en una peticion 
+
+pregunta 3:
+respuesta:B. req.body 
+
+pregunta 4:
+respuesta:C. {"nombre":"Juan"}

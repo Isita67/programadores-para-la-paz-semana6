@@ -1,0 +1,4 @@
+{
+    "tipo": "Daño en la via",
+    "descripcion": "se presenta un hueco grande"
+}
